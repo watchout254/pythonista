@@ -1,5 +1,5 @@
-#length = len("Nyongesa Daniel Mukenya")
-#print("Your name has " + str(length) + " Characters")
+length = len("Nyongesa Daniel Mukenya")
+print("Your name has " + str(length) + " Characters")
 
 #watch me do this alone
 var_a = input("Enter value of a: ")
